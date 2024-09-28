@@ -1,0 +1,19 @@
+body {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 6rem;
+  background-image: url(Assets/melon.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
